@@ -1,0 +1,8 @@
+/code/functional-market-trader/core/obj/Debug/netstandard2.0/core.fsprojAssemblyReference.cache
+/code/functional-market-trader/core/obj/Debug/netstandard2.0/core.AssemblyInfoInputs.cache
+/code/functional-market-trader/core/obj/Debug/netstandard2.0/core.AssemblyInfo.fs
+/code/functional-market-trader/core/bin/Debug/netstandard2.0/core.deps.json
+/code/functional-market-trader/core/bin/Debug/netstandard2.0/core.dll
+/code/functional-market-trader/core/bin/Debug/netstandard2.0/core.pdb
+/code/functional-market-trader/core/obj/Debug/netstandard2.0/core.dll
+/code/functional-market-trader/core/obj/Debug/netstandard2.0/core.pdb
